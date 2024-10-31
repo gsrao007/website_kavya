@@ -1,3 +1,4 @@
+title: My Title
 ---
 layout: default
 ---
